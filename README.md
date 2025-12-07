@@ -5,5 +5,4 @@ You can visit it [HERE](https://mohammadmao.github.io/portfolio/)
 
 ## Preview
 ![previewimg](./images/preview.png)
-![previewimg2](./images/preview2.png)
 
