@@ -1,7 +1,16 @@
 # Portfolio
-This is my simple and beautiful portfolio website using HTML and CSS 😙. 
+This is my simple and beautiful portfolio website, showcasing some of my projects, skills, and experience 😙. 
 
-You can visit it [HERE](https://mohammadmao.github.io/portfolio/)
+**Live Website:** 
+You can visit it 👉 [HERE](https://mohammadmao.github.io/portfolio/)
+
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **GitHub Pages** (Deployment)
+
 
 ## Preview
 
